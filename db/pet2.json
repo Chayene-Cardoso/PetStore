@@ -1,0 +1,18 @@
+{
+  "id": 9643065515,
+  "category": {
+    "id": 1,
+    "name": "AX2345LORD"
+  },
+  "name": "luke",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 20210825,
+      "name": "data"
+    }
+  ],
+  "status": "sold"
+}
